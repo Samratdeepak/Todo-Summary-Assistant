@@ -66,13 +66,13 @@ slack.webhook.url=https://hooks.slack.com/services/xxxx/yyyy/zzzz
 ## Screenshots
 
 ![App Dashboard](https://i.ibb.co/Jwfhh2Sy/1.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
-![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
+![App Dashboard](https://i.ibb.co/ksPy46kw/2.png)
+![App Dashboard](https://i.ibb.co/B2gycmcJ/3.png)
+![App Dashboard](https://i.ibb.co/zWjJsxt0/4.png)
+![App Dashboard](https://i.ibb.co/fVTBkGp3/5.png)
+![App Dashboard](https://i.ibb.co/Q7kt1k8j/6.png)
+![App Dashboard](https://i.ibb.co/7ty1ZYRR/7.png)
+![App Dashboard](https://i.ibb.co/q3GyLTRW/8.png)
+![App Dashboard](https://i.ibb.co/vx1hjsx6/9.png)
+![App Dashboard](https://i.ibb.co/S4d7y7kC/10.png)
 
