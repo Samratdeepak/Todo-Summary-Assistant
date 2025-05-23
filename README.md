@@ -65,7 +65,7 @@ slack.webhook.url=https://hooks.slack.com/services/xxxx/yyyy/zzzz
 
 ## Screenshots
 
-![App Dashboard](https://ibb.co/v67ttmMQ)
+![App Dashboard](https://i.ibb.co/v67ttmMQ/1.png)
 ![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
 ![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
 ![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
