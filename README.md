@@ -55,9 +55,15 @@ slack.webhook.url=https://hooks.slack.com/services/xxxx/yyyy/zzzz
 - Go to https://dashboard.cohere.com/api-keys
 - Get API key and add to backend config
 
-![Alt text for the screenshot](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
+
 ## Jwt Secret Generation
 
 - Go to windows powershell
 - run [Convert]::ToBase64String((1..48 | ForEach-Object {Get-Random -Maximum 256}) -as [byte[]]) | ForEach-Object { $_.Substring(0,64) }
 - Get JWT secret key and add to backend config
+
+
+## Screenshots
+
+![App Dashboard](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
+![Alt text for the screenshot](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)
